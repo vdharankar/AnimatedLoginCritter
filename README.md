@@ -1,0 +1,2 @@
+# AnimatedLoginCritter
+Animated Login critter
